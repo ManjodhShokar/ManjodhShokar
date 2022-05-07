@@ -45,7 +45,7 @@
   <td class="infotd">
     <h3>MY GAME</h3>
     <p>
-        My game, concluding the 2nd semester Programming in Java Module at City(20220. This 
+        My game, concluding the 2nd semester Programming in Java Module at City(2022). This 
         project demonstrates my understanding of java, with things like arrays, inheritance,
         encapsulation, working with files, GUI etc. I created a game where the player character
         has to find 3 different keys around the map which will be used to open the lock at the 
@@ -60,12 +60,13 @@
         and to make save files. The most challenging part of developing the game for me, was just
         having everything interact in a way I want them to, since I am new to coding, getting everything
         to do what I wanted it to do and interact in a way I wanted it to do was difficult but I got it
-        down in the end.		
+        down in the end. I learnt a lot of things in this project, such as inheritance, encapsulating, working
+        with files and GUI.		
 
     </p>
 
     <p>
-      Check out the code on Github: <a href="https://radujianu.github.io/">https://radujianu.github.io/</a>
+      : <a href="https://radujianu.github.io/">https://radujianu.github.io/</a>
     </p>
   <td>
     <img src="download.jpg" width=300px></img>
